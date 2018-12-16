@@ -1,0 +1,15 @@
+org\sid\dao\PostRepository.class
+org\sid\entities\Post.class
+org\sid\GestionBlogApplication.class
+org\sid\dto\CommentaireDto.class
+org\sid\dto\PostDto.class
+org\sid\controller\PostController.class
+org\sid\dao\CommentaireRepository.class
+org\sid\dto\PostDto$PostDtoBuilder.class
+org\sid\mapper\PostMapper.class
+org\sid\dto\CommentaireDto$CommentaireDtoBuilder.class
+org\sid\entities\Commentaire.class
+org\sid\mapper\CommentaireMapperImpl.class
+org\sid\controller\CommentaireController.class
+org\sid\mapper\CommentaireMapper.class
+org\sid\mapper\PostMapperImpl.class
